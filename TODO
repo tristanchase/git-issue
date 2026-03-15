@@ -1,1 +1,2 @@
 * figure out if git-issue can number issues sequentially
+* change pager() function: either kill it or change it to less -F
